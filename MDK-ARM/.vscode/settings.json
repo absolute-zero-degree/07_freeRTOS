@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "driver_ir_receiver.h": "c",
+        "queue.h": "c",
+        "typedefs.h": "c",
+        "freertos.h": "c",
+        "driver_lcd.h": "c",
+        "cmsis_os.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "task.h": "c",
+        "driver_uart.h": "c",
+        "driver_mpu6050.h": "c"
+    }
+}
